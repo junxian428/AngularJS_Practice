@@ -1,0 +1,10 @@
+ng new hello-world
+
+ng g c component-name
+
+ng g c textcomponent
+
+
+To run: (http://localhost:4200/)
+
+ng serve
